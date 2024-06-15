@@ -36,8 +36,8 @@ Follow these steps to set up and run the application locally:
 
 1. **Clone the repository**
 
-   git clone https://github.com/Sushmitha-SK/BawejaMedia-ToDoApp.git
-   cd BawejaMedia-ToDoApp
+- git clone https://github.com/Sushmitha-SK/BawejaMedia-ToDoApp.git
+- cd BawejaMedia-ToDoApp
 
 2. **Install dependencies**
 
