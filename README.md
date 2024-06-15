@@ -2,7 +2,7 @@
 
 ## Description
 
-A ToDo application built with React and Redux, styled using styled-components. This app allows you to manage your tasks effectively by adding, viewing, and deleting tasks.
+A ToDo application built with React and Redux, styled using styled-components and Metrial UI. This app allows you to manage your tasks effectively by adding, viewing, and deleting tasks.
 
 ## Features
 
