@@ -2,7 +2,7 @@
 
 ## Description
 
-A simple and intuitive ToDo application built with React and Redux, styled using styled-components. This app allows you to manage your tasks effectively by adding, viewing, and deleting tasks.
+A ToDo application built with React and Redux, styled using styled-components. This app allows you to manage your tasks effectively by adding, viewing, and deleting tasks.
 
 ## Features
 
@@ -20,8 +20,8 @@ A simple and intuitive ToDo application built with React and Redux, styled using
 - react-redux
 - styled-components
 - @mui/material
-- @fortawesome/react-fontawesome
-- @fortawesome/free-solid-svg-icons
+- @fontawesome/react-fontawesome
+- @fontawesome/free-solid-svg-icons
 
 ## Prerequisites
 
@@ -36,8 +36,8 @@ Follow these steps to set up and run the application locally:
 
 1. **Clone the repository**
 
-   git clone https://github.com/your-username/todo-app.git
-   cd todo-app
+   git clone https://github.com/Sushmitha-SK/BawejaMedia-ToDoApp.git
+   cd BawejaMedia-ToDoApp
 
 2. **Install dependencies**
 
@@ -55,7 +55,7 @@ Follow these steps to set up and run the application locally:
    yarn start
 
 4. **Open the application**
-   Open your browser and go to http://localhost:3000 to view the application.
+   Open your browser and go to https://to-do-app-assignment.vercel.app/ to view the application.
 
 ## Important Files
 
