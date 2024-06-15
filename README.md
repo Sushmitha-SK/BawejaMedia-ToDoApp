@@ -20,8 +20,7 @@ A ToDo application built with React and Redux, styled using styled-components. T
 - react-redux
 - styled-components
 - @mui/material
-- @fontawesome/react-fontawesome
-- @fontawesome/free-solid-svg-icons
+- https://kit.fontawesome.com/228dfc1a0b.js
 
 ## Prerequisites
 
