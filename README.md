@@ -71,3 +71,7 @@ Follow these steps to set up and run the application locally:
     npm start or yarn start: Runs the app in the development mode.
     npm test or yarn test: Launches the test runner in the interactive watch mode.
     npm run build or yarn build: Builds the app for production to the build folder.
+
+## Video Explanation Link
+
+    https://drive.google.com/drive/folders/17xmtJCGAfUNDgvuxg-aaX2lt23Z12sJx?usp=sharing    
